@@ -1,7 +1,8 @@
 # Sistema de Lavanderia
 
 Projeto de Programação Orientada a Objetos (POO).
-Alunas: Dhenifer, Eduarda Jackeline 
+
+Alunas: Dhenifer, Eduarda Jackeline e Kauani
 
 ## Classes
 
